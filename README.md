@@ -155,10 +155,10 @@ Adicione aqui prints ou GIFs mostrando o funcionamento do app:
 
 ## 👩‍💻 Autor / Equipe
 
-**Nome:** *[Laerte]*  
-**Instituição:** *[Curso Técnico em Informática – Escola Ulbra São Lucas]*  
+**Nome:** *Laerte*  
+**Instituição:** *Curso Técnico em Informática – Escola Ulbra São Lucas*  
 **Disciplina:** *Desenvolvimento Mobile Android*  
-**Professor:** *[Jeferson Leon]*  
+**Professor:** *Jeferson Leon*  
 
 ---
 
