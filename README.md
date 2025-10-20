@@ -155,7 +155,7 @@ Adicione aqui prints ou GIFs mostrando o funcionamento do app:
 
 ## 👩‍💻 Autor / Equipe
 
-**Nome:** *Laerte*  
+**Nome:** *Laerte Ferraz da Silva Júnior*  
 **Instituição:** *Curso Técnico em Informática – Escola Ulbra São Lucas*  
 **Disciplina:** *Desenvolvimento Mobile Android*  
 **Professor:** *Jeferson Leon*  
